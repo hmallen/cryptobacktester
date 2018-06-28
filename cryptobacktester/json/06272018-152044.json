@@ -1,0 +1,1368 @@
+{
+    "gainers": {
+        "1h": [
+            [
+                {
+                    "name": "Waves",
+                    "percent_change": 5.75,
+                    "price": 2.84894,
+                    "symbol": "WAVES",
+                    "volume_24h": 37738200.0,
+                    "website_slug": "waves"
+                },
+                {
+                    "pair": "WAVES/BTC",
+                    "percent_volume": 11.1772421578,
+                    "price": 2.87455,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 4218090.0
+                }
+            ],
+            [
+                {
+                    "name": "Waves",
+                    "percent_change": 5.75,
+                    "price": 2.84894,
+                    "symbol": "WAVES",
+                    "volume_24h": 37738200.0,
+                    "website_slug": "waves"
+                },
+                {
+                    "pair": "WAVES/BTC",
+                    "percent_volume": 10.9486938964,
+                    "price": 2.8623,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 4131840.0
+                }
+            ],
+            [
+                {
+                    "name": "Waves",
+                    "percent_change": 5.75,
+                    "price": 2.84894,
+                    "symbol": "WAVES",
+                    "volume_24h": 37738200.0,
+                    "website_slug": "waves"
+                },
+                {
+                    "pair": "WAVES/ETH",
+                    "percent_volume": 0.427630358629,
+                    "price": 2.87249,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 161380.0
+                }
+            ],
+            [
+                {
+                    "name": "Waves",
+                    "percent_change": 5.75,
+                    "price": 2.84894,
+                    "symbol": "WAVES",
+                    "volume_24h": 37738200.0,
+                    "website_slug": "waves"
+                },
+                {
+                    "pair": "WAVES/BNB",
+                    "percent_volume": 0.156885331044,
+                    "price": 2.87696,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 59205.7
+                }
+            ],
+            [
+                {
+                    "name": "Waves",
+                    "percent_change": 5.75,
+                    "price": 2.84894,
+                    "symbol": "WAVES",
+                    "volume_24h": 37738200.0,
+                    "website_slug": "waves"
+                },
+                {
+                    "pair": "WAVES/ETH",
+                    "percent_volume": 0.086799052419,
+                    "price": 2.84985,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 32756.4
+                }
+            ],
+            [
+                {
+                    "name": "ETHLend",
+                    "percent_change": 5.43,
+                    "price": 0.0243218,
+                    "symbol": "LEND",
+                    "volume_24h": 272812.0,
+                    "website_slug": "ethlend"
+                },
+                {
+                    "pair": "LEND/BTC",
+                    "percent_volume": 69.8623960823,
+                    "price": 0.0243939,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 190593.0
+                }
+            ],
+            [
+                {
+                    "name": "ETHLend",
+                    "percent_change": 5.43,
+                    "price": 0.0243218,
+                    "symbol": "LEND",
+                    "volume_24h": 272812.0,
+                    "website_slug": "ethlend"
+                },
+                {
+                    "pair": "LEND/ETH",
+                    "percent_volume": 16.6261381464,
+                    "price": 0.0242786,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 45358.1
+                }
+            ],
+            [
+                {
+                    "name": "WhiteCoin",
+                    "percent_change": 3.32,
+                    "price": 0.0844978,
+                    "symbol": "XWC",
+                    "volume_24h": 232389.0,
+                    "website_slug": "whitecoin"
+                },
+                {
+                    "pair": "XWC/BTC",
+                    "percent_volume": 1.23777803597,
+                    "price": 0.0834172,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 2876.46
+                }
+            ],
+            [
+                {
+                    "name": "Pundi X",
+                    "percent_change": 3.21,
+                    "price": 0.00578619,
+                    "symbol": "NPXS",
+                    "volume_24h": 15127600.0,
+                    "website_slug": "pundi-x"
+                },
+                {
+                    "pair": "NPXS/BTC",
+                    "percent_volume": 67.3722203125,
+                    "price": 0.00582266,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 10191800.0
+                }
+            ],
+            [
+                {
+                    "name": "Pundi X",
+                    "percent_change": 3.21,
+                    "price": 0.00578619,
+                    "symbol": "NPXS",
+                    "volume_24h": 15127600.0,
+                    "website_slug": "pundi-x"
+                },
+                {
+                    "pair": "NPXS/ETH",
+                    "percent_volume": 15.5853539226,
+                    "price": 0.0057746,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 2357690.0
+                }
+            ],
+            [
+                {
+                    "name": "Primecoin",
+                    "percent_change": 2.86,
+                    "price": 1.27816,
+                    "symbol": "XPM",
+                    "volume_24h": 378219.0,
+                    "website_slug": "primecoin"
+                },
+                {
+                    "pair": "XPM/BTC",
+                    "percent_volume": 8.0951054812,
+                    "price": 1.21059,
+                    "source": "Poloniex",
+                    "updated": true,
+                    "volume_24h": 30521.3
+                }
+            ],
+            [
+                {
+                    "name": "Ambrosus",
+                    "percent_change": 2.85,
+                    "price": 0.257084,
+                    "symbol": "AMB",
+                    "volume_24h": 416675.0,
+                    "website_slug": "amber"
+                },
+                {
+                    "pair": "AMB/BTC",
+                    "percent_volume": 75.7122457551,
+                    "price": 0.257361,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 315474.0
+                }
+            ],
+            [
+                {
+                    "name": "Ambrosus",
+                    "percent_change": 2.85,
+                    "price": 0.257084,
+                    "symbol": "AMB",
+                    "volume_24h": 416675.0,
+                    "website_slug": "amber"
+                },
+                {
+                    "pair": "AMB/ETH",
+                    "percent_volume": 16.1143577128,
+                    "price": 0.25656,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 67144.5
+                }
+            ],
+            [
+                {
+                    "name": "Ambrosus",
+                    "percent_change": 2.85,
+                    "price": 0.257084,
+                    "symbol": "AMB",
+                    "volume_24h": 416675.0,
+                    "website_slug": "amber"
+                },
+                {
+                    "pair": "AMB/BNB",
+                    "percent_volume": 4.14495710086,
+                    "price": 0.255371,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 17271.0
+                }
+            ],
+            [
+                {
+                    "name": "Monaco",
+                    "percent_change": 2.83,
+                    "price": 6.50671,
+                    "symbol": "MCO",
+                    "volume_24h": 21494600.0,
+                    "website_slug": "monaco"
+                },
+                {
+                    "pair": "MCO/BTC",
+                    "percent_volume": 13.7772742921,
+                    "price": 6.65009,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 2961370.0
+                }
+            ],
+            [
+                {
+                    "name": "Monaco",
+                    "percent_change": 2.83,
+                    "price": 6.50671,
+                    "symbol": "MCO",
+                    "volume_24h": 21494600.0,
+                    "website_slug": "monaco"
+                },
+                {
+                    "pair": "MCO/BTC",
+                    "percent_volume": 4.26720199492,
+                    "price": 6.58818,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 917218.0
+                }
+            ],
+            [
+                {
+                    "name": "Monaco",
+                    "percent_change": 2.83,
+                    "price": 6.50671,
+                    "symbol": "MCO",
+                    "volume_24h": 21494600.0,
+                    "website_slug": "monaco"
+                },
+                {
+                    "pair": "MCO/ETH",
+                    "percent_volume": 2.85273975789,
+                    "price": 6.68651,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 613185.0
+                }
+            ],
+            [
+                {
+                    "name": "Monaco",
+                    "percent_change": 2.83,
+                    "price": 6.50671,
+                    "symbol": "MCO",
+                    "volume_24h": 21494600.0,
+                    "website_slug": "monaco"
+                },
+                {
+                    "pair": "MCO/BNB",
+                    "percent_volume": 1.02750923488,
+                    "price": 6.72762,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 220859.0
+                }
+            ],
+            [
+                {
+                    "name": "Monaco",
+                    "percent_change": 2.83,
+                    "price": 6.50671,
+                    "symbol": "MCO",
+                    "volume_24h": 21494600.0,
+                    "website_slug": "monaco"
+                },
+                {
+                    "pair": "MCO/ETH",
+                    "percent_volume": 0.327331515823,
+                    "price": 6.64395,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 70358.6
+                }
+            ]
+        ],
+        "24h": [
+            [
+                {
+                    "name": "Monaco",
+                    "percent_change": 26.43,
+                    "price": 6.50671,
+                    "symbol": "MCO",
+                    "volume_24h": 21494600.0,
+                    "website_slug": "monaco"
+                },
+                {
+                    "pair": "MCO/BTC",
+                    "percent_volume": 13.7772742921,
+                    "price": 6.65009,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 2961370.0
+                }
+            ],
+            [
+                {
+                    "name": "Monaco",
+                    "percent_change": 26.43,
+                    "price": 6.50671,
+                    "symbol": "MCO",
+                    "volume_24h": 21494600.0,
+                    "website_slug": "monaco"
+                },
+                {
+                    "pair": "MCO/BTC",
+                    "percent_volume": 4.26720199492,
+                    "price": 6.58818,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 917218.0
+                }
+            ],
+            [
+                {
+                    "name": "Monaco",
+                    "percent_change": 26.43,
+                    "price": 6.50671,
+                    "symbol": "MCO",
+                    "volume_24h": 21494600.0,
+                    "website_slug": "monaco"
+                },
+                {
+                    "pair": "MCO/ETH",
+                    "percent_volume": 2.85273975789,
+                    "price": 6.68651,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 613185.0
+                }
+            ],
+            [
+                {
+                    "name": "Monaco",
+                    "percent_change": 26.43,
+                    "price": 6.50671,
+                    "symbol": "MCO",
+                    "volume_24h": 21494600.0,
+                    "website_slug": "monaco"
+                },
+                {
+                    "pair": "MCO/BNB",
+                    "percent_volume": 1.02750923488,
+                    "price": 6.72762,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 220859.0
+                }
+            ],
+            [
+                {
+                    "name": "Monaco",
+                    "percent_change": 26.43,
+                    "price": 6.50671,
+                    "symbol": "MCO",
+                    "volume_24h": 21494600.0,
+                    "website_slug": "monaco"
+                },
+                {
+                    "pair": "MCO/ETH",
+                    "percent_volume": 0.327331515823,
+                    "price": 6.64395,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 70358.6
+                }
+            ],
+            [
+                {
+                    "name": "Bitmark",
+                    "percent_change": 8.95,
+                    "price": 0.245165,
+                    "symbol": "BTM",
+                    "volume_24h": 54627.9,
+                    "website_slug": "bitmark"
+                },
+                {
+                    "pair": "BTM/BTC",
+                    "percent_volume": 1.84270308762,
+                    "price": 0.30952,
+                    "source": "Poloniex",
+                    "updated": true,
+                    "volume_24h": 1006.63
+                }
+            ],
+            [
+                {
+                    "name": "Feathercoin",
+                    "percent_change": 6.28,
+                    "price": 0.0878706,
+                    "symbol": "FTC",
+                    "volume_24h": 175468.0,
+                    "website_slug": "feathercoin"
+                },
+                {
+                    "pair": "FTC/BTC",
+                    "percent_volume": 45.8927859251,
+                    "price": 0.0874869,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 80550.1
+                }
+            ],
+            [
+                {
+                    "name": "Theta Token",
+                    "percent_change": 5.36,
+                    "price": 0.157767,
+                    "symbol": "THETA",
+                    "volume_24h": 24767700.0,
+                    "website_slug": "theta-token"
+                },
+                {
+                    "pair": "THETA/BTC",
+                    "percent_volume": 38.7349249224,
+                    "price": 0.157763,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 9593750.0
+                }
+            ],
+            [
+                {
+                    "name": "Theta Token",
+                    "percent_change": 5.36,
+                    "price": 0.157767,
+                    "symbol": "THETA",
+                    "volume_24h": 24767700.0,
+                    "website_slug": "theta-token"
+                },
+                {
+                    "pair": "THETA/ETH",
+                    "percent_volume": 3.92205574195,
+                    "price": 0.158292,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 971403.0
+                }
+            ],
+            [
+                {
+                    "name": "Theta Token",
+                    "percent_change": 5.36,
+                    "price": 0.157767,
+                    "symbol": "THETA",
+                    "volume_24h": 24767700.0,
+                    "website_slug": "theta-token"
+                },
+                {
+                    "pair": "THETA/BNB",
+                    "percent_volume": 1.16569564392,
+                    "price": 0.159097,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 288716.0
+                }
+            ]
+        ],
+        "7d": [
+            [
+                {
+                    "name": "Monaco",
+                    "percent_change": 23.25,
+                    "price": 6.50671,
+                    "symbol": "MCO",
+                    "volume_24h": 21494600.0,
+                    "website_slug": "monaco"
+                },
+                {
+                    "pair": "MCO/BTC",
+                    "percent_volume": 13.7772742921,
+                    "price": 6.65009,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 2961370.0
+                }
+            ],
+            [
+                {
+                    "name": "Monaco",
+                    "percent_change": 23.25,
+                    "price": 6.50671,
+                    "symbol": "MCO",
+                    "volume_24h": 21494600.0,
+                    "website_slug": "monaco"
+                },
+                {
+                    "pair": "MCO/BTC",
+                    "percent_volume": 4.26720199492,
+                    "price": 6.58818,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 917218.0
+                }
+            ],
+            [
+                {
+                    "name": "Monaco",
+                    "percent_change": 23.25,
+                    "price": 6.50671,
+                    "symbol": "MCO",
+                    "volume_24h": 21494600.0,
+                    "website_slug": "monaco"
+                },
+                {
+                    "pair": "MCO/ETH",
+                    "percent_volume": 2.85273975789,
+                    "price": 6.68651,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 613185.0
+                }
+            ],
+            [
+                {
+                    "name": "Monaco",
+                    "percent_change": 23.25,
+                    "price": 6.50671,
+                    "symbol": "MCO",
+                    "volume_24h": 21494600.0,
+                    "website_slug": "monaco"
+                },
+                {
+                    "pair": "MCO/BNB",
+                    "percent_volume": 1.02750923488,
+                    "price": 6.72762,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 220859.0
+                }
+            ],
+            [
+                {
+                    "name": "Monaco",
+                    "percent_change": 23.25,
+                    "price": 6.50671,
+                    "symbol": "MCO",
+                    "volume_24h": 21494600.0,
+                    "website_slug": "monaco"
+                },
+                {
+                    "pair": "MCO/ETH",
+                    "percent_volume": 0.327331515823,
+                    "price": 6.64395,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 70358.6
+                }
+            ],
+            [
+                {
+                    "name": "Selfkey",
+                    "percent_change": 17.69,
+                    "price": 0.00788485,
+                    "symbol": "KEY",
+                    "volume_24h": 11077200.0,
+                    "website_slug": "selfkey"
+                },
+                {
+                    "pair": "KEY/BTC",
+                    "percent_volume": 58.6935235193,
+                    "price": 0.00790877,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 6509640.0
+                }
+            ],
+            [
+                {
+                    "name": "Selfkey",
+                    "percent_change": 17.69,
+                    "price": 0.00788485,
+                    "symbol": "KEY",
+                    "volume_24h": 11077200.0,
+                    "website_slug": "selfkey"
+                },
+                {
+                    "pair": "KEY/ETH",
+                    "percent_volume": 7.09790909665,
+                    "price": 0.00783756,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 787222.0
+                }
+            ],
+            [
+                {
+                    "name": "Pundi X",
+                    "percent_change": 13.15,
+                    "price": 0.00578619,
+                    "symbol": "NPXS",
+                    "volume_24h": 15127600.0,
+                    "website_slug": "pundi-x"
+                },
+                {
+                    "pair": "NPXS/BTC",
+                    "percent_volume": 67.3722203125,
+                    "price": 0.00582266,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 10191800.0
+                }
+            ],
+            [
+                {
+                    "name": "Pundi X",
+                    "percent_change": 13.15,
+                    "price": 0.00578619,
+                    "symbol": "NPXS",
+                    "volume_24h": 15127600.0,
+                    "website_slug": "pundi-x"
+                },
+                {
+                    "pair": "NPXS/ETH",
+                    "percent_volume": 15.5853539226,
+                    "price": 0.0057746,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 2357690.0
+                }
+            ],
+            [
+                {
+                    "name": "DigiByte",
+                    "percent_change": 10.94,
+                    "price": 0.0227327,
+                    "symbol": "DGB",
+                    "volume_24h": 3474260.0,
+                    "website_slug": "digibyte"
+                },
+                {
+                    "pair": "DGB/BTC",
+                    "percent_volume": 37.6399578615,
+                    "price": 0.022739,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 1307710.0
+                }
+            ],
+            [
+                {
+                    "name": "DigiByte",
+                    "percent_change": 10.94,
+                    "price": 0.0227327,
+                    "symbol": "DGB",
+                    "volume_24h": 3474260.0,
+                    "website_slug": "digibyte"
+                },
+                {
+                    "pair": "DGB/BTC",
+                    "percent_volume": 17.4130894061,
+                    "price": 0.022739,
+                    "source": "Poloniex",
+                    "updated": true,
+                    "volume_24h": 604976.0
+                }
+            ],
+            [
+                {
+                    "name": "DigiByte",
+                    "percent_change": 10.94,
+                    "price": 0.0227327,
+                    "symbol": "DGB",
+                    "volume_24h": 3474260.0,
+                    "website_slug": "digibyte"
+                },
+                {
+                    "pair": "DGB/ETH",
+                    "percent_volume": 1.3716417309,
+                    "price": 0.0230461,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 47654.4
+                }
+            ],
+            [
+                {
+                    "name": "Clams",
+                    "percent_change": 9.39,
+                    "price": 2.49458,
+                    "symbol": "CLAM",
+                    "volume_24h": 123183.0,
+                    "website_slug": "clams"
+                },
+                {
+                    "pair": "CLAM/BTC",
+                    "percent_volume": 90.4548517247,
+                    "price": 2.49473,
+                    "source": "Poloniex",
+                    "updated": true,
+                    "volume_24h": 111425.0
+                }
+            ],
+            [
+                {
+                    "name": "Clams",
+                    "percent_change": 9.39,
+                    "price": 2.49458,
+                    "symbol": "CLAM",
+                    "volume_24h": 123183.0,
+                    "website_slug": "clams"
+                },
+                {
+                    "pair": "CLAM/BTC",
+                    "percent_volume": 9.18365358856,
+                    "price": 2.49118,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 11312.7
+                }
+            ],
+            [
+                {
+                    "name": "Populous",
+                    "percent_change": 8.97,
+                    "price": 6.08672,
+                    "symbol": "PPT",
+                    "volume_24h": 5839400.0,
+                    "website_slug": "populous"
+                },
+                {
+                    "pair": "PPT/BTC",
+                    "percent_volume": 12.3204096311,
+                    "price": 6.10827,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 719438.0
+                }
+            ],
+            [
+                {
+                    "name": "Populous",
+                    "percent_change": 8.97,
+                    "price": 6.08672,
+                    "symbol": "PPT",
+                    "volume_24h": 5839400.0,
+                    "website_slug": "populous"
+                },
+                {
+                    "pair": "PPT/ETH",
+                    "percent_volume": 5.81165873206,
+                    "price": 6.13431,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 339366.0
+                }
+            ],
+            [
+                {
+                    "name": "Waves",
+                    "percent_change": 7.78,
+                    "price": 2.84894,
+                    "symbol": "WAVES",
+                    "volume_24h": 37738200.0,
+                    "website_slug": "waves"
+                },
+                {
+                    "pair": "WAVES/BTC",
+                    "percent_volume": 11.1939406072,
+                    "price": 2.89682,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 4249690.0
+                }
+            ],
+            [
+                {
+                    "name": "Waves",
+                    "percent_change": 7.78,
+                    "price": 2.84894,
+                    "symbol": "WAVES",
+                    "volume_24h": 37738200.0,
+                    "website_slug": "waves"
+                },
+                {
+                    "pair": "WAVES/BTC",
+                    "percent_volume": 10.9217367941,
+                    "price": 2.87947,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 4146350.0
+                }
+            ],
+            [
+                {
+                    "name": "Waves",
+                    "percent_change": 7.78,
+                    "price": 2.84894,
+                    "symbol": "WAVES",
+                    "volume_24h": 37738200.0,
+                    "website_slug": "waves"
+                },
+                {
+                    "pair": "WAVES/ETH",
+                    "percent_volume": 0.436261003788,
+                    "price": 2.88958,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 165623.0
+                }
+            ],
+            [
+                {
+                    "name": "Waves",
+                    "percent_change": 7.78,
+                    "price": 2.84894,
+                    "symbol": "WAVES",
+                    "volume_24h": 37738200.0,
+                    "website_slug": "waves"
+                },
+                {
+                    "pair": "WAVES/BNB",
+                    "percent_volume": 0.158782221145,
+                    "price": 2.87863,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 60280.4
+                }
+            ],
+            [
+                {
+                    "name": "Waves",
+                    "percent_change": 7.78,
+                    "price": 2.84894,
+                    "symbol": "WAVES",
+                    "volume_24h": 37738200.0,
+                    "website_slug": "waves"
+                },
+                {
+                    "pair": "WAVES/ETH",
+                    "percent_volume": 0.0862955099805,
+                    "price": 2.87718,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 32761.4
+                }
+            ]
+        ]
+    },
+    "losers": {
+        "1h": [
+            [
+                {
+                    "name": "VeriCoin",
+                    "percent_change": -5.21,
+                    "price": 0.168241,
+                    "symbol": "VRC",
+                    "volume_24h": 403616.0,
+                    "website_slug": "vericoin"
+                },
+                {
+                    "pair": "VRC/BTC",
+                    "percent_volume": 3.989385951,
+                    "price": 0.271397,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 16101.8
+                }
+            ],
+            [
+                {
+                    "name": "VeriCoin",
+                    "percent_change": -5.21,
+                    "price": 0.168241,
+                    "symbol": "VRC",
+                    "volume_24h": 403616.0,
+                    "website_slug": "vericoin"
+                },
+                {
+                    "pair": "VRC/BTC",
+                    "percent_volume": 1.44740049948,
+                    "price": 0.274891,
+                    "source": "Poloniex",
+                    "updated": true,
+                    "volume_24h": 5841.94
+                }
+            ],
+            [
+                {
+                    "name": "ZenCash",
+                    "percent_change": -3.21,
+                    "price": 16.8009,
+                    "symbol": "ZEN",
+                    "volume_24h": 1179480.0,
+                    "website_slug": "zencash"
+                },
+                {
+                    "pair": "ZEN/BTC",
+                    "percent_volume": 28.9011259199,
+                    "price": 16.7631,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 340883.0
+                }
+            ],
+            [
+                {
+                    "name": "ZenCash",
+                    "percent_change": -3.21,
+                    "price": 16.8009,
+                    "symbol": "ZEN",
+                    "volume_24h": 1179480.0,
+                    "website_slug": "zencash"
+                },
+                {
+                    "pair": "ZEN/BTC",
+                    "percent_volume": 16.5921423,
+                    "price": 16.7618,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 195701.0
+                }
+            ],
+            [
+                {
+                    "name": "ZenCash",
+                    "percent_change": -3.21,
+                    "price": 16.8009,
+                    "symbol": "ZEN",
+                    "volume_24h": 1179480.0,
+                    "website_slug": "zencash"
+                },
+                {
+                    "pair": "ZEN/ETH",
+                    "percent_volume": 9.73793536135,
+                    "price": 16.7838,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 114857.0
+                }
+            ],
+            [
+                {
+                    "name": "ZenCash",
+                    "percent_change": -3.21,
+                    "price": 16.8009,
+                    "symbol": "ZEN",
+                    "volume_24h": 1179480.0,
+                    "website_slug": "zencash"
+                },
+                {
+                    "pair": "ZEN/BNB",
+                    "percent_volume": 1.70186014176,
+                    "price": 16.5562,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 20073.1
+                }
+            ],
+            [
+                {
+                    "name": "Mercury",
+                    "percent_change": -3.02,
+                    "price": 0.131786,
+                    "symbol": "MER",
+                    "volume_24h": 1309120.0,
+                    "website_slug": "mercury"
+                },
+                {
+                    "pair": "MER/BTC",
+                    "percent_volume": 6.44953160249,
+                    "price": 0.133407,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 84337.3
+                }
+            ],
+            [
+                {
+                    "name": "NoLimitCoin",
+                    "percent_change": -2.34,
+                    "price": 0.0463111,
+                    "symbol": "NLC2",
+                    "volume_24h": 97054.9,
+                    "website_slug": "nolimitcoin"
+                },
+                {
+                    "pair": "NLC2/BTC",
+                    "percent_volume": 23.8576310933,
+                    "price": 0.0475006,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 23155.0
+                }
+            ],
+            [
+                {
+                    "name": "Theta Token",
+                    "percent_change": -1.99,
+                    "price": 0.157767,
+                    "symbol": "THETA",
+                    "volume_24h": 24767700.0,
+                    "website_slug": "theta-token"
+                },
+                {
+                    "pair": "THETA/BTC",
+                    "percent_volume": 38.7349249224,
+                    "price": 0.157763,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 9593750.0
+                }
+            ],
+            [
+                {
+                    "name": "Theta Token",
+                    "percent_change": -1.99,
+                    "price": 0.157767,
+                    "symbol": "THETA",
+                    "volume_24h": 24767700.0,
+                    "website_slug": "theta-token"
+                },
+                {
+                    "pair": "THETA/ETH",
+                    "percent_volume": 3.92205574195,
+                    "price": 0.158292,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 971403.0
+                }
+            ],
+            [
+                {
+                    "name": "Theta Token",
+                    "percent_change": -1.99,
+                    "price": 0.157767,
+                    "symbol": "THETA",
+                    "volume_24h": 24767700.0,
+                    "website_slug": "theta-token"
+                },
+                {
+                    "pair": "THETA/BNB",
+                    "percent_volume": 1.16569564392,
+                    "price": 0.159097,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 288716.0
+                }
+            ],
+            [
+                {
+                    "name": "Namecoin",
+                    "percent_change": -1.75,
+                    "price": 1.29865,
+                    "symbol": "NMC",
+                    "volume_24h": 103664.0,
+                    "website_slug": "namecoin"
+                },
+                {
+                    "pair": "NMC/BTC",
+                    "percent_volume": 0.607586639637,
+                    "price": 1.28956,
+                    "source": "Poloniex",
+                    "updated": true,
+                    "volume_24h": 629.399
+                }
+            ],
+            [
+                {
+                    "name": "Odyssey",
+                    "percent_change": -1.69,
+                    "price": 0.00738077,
+                    "symbol": "OCN",
+                    "volume_24h": 9150720.0,
+                    "website_slug": "odyssey"
+                },
+                {
+                    "pair": "OCN/BTC",
+                    "percent_volume": 1.594694188,
+                    "price": 0.00741623,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 145926.0
+                }
+            ],
+            [
+                {
+                    "name": "Odyssey",
+                    "percent_change": -1.69,
+                    "price": 0.00738077,
+                    "symbol": "OCN",
+                    "volume_24h": 9150720.0,
+                    "website_slug": "odyssey"
+                },
+                {
+                    "pair": "OCN/ETH",
+                    "percent_volume": 0.0310597417471,
+                    "price": 0.00756881,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 2842.19
+                }
+            ]
+        ],
+        "24h": [
+            [
+                {
+                    "name": "CashBet Coin",
+                    "percent_change": -16.86,
+                    "price": 0.183465,
+                    "symbol": "CBC",
+                    "volume_24h": 4599480.0,
+                    "website_slug": "cashbet-coin"
+                },
+                {
+                    "pair": "CBC/BTC",
+                    "percent_volume": 0.28595841269,
+                    "price": 0.185161,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 13152.6
+                }
+            ],
+            [
+                {
+                    "name": "VeriCoin",
+                    "percent_change": -15.12,
+                    "price": 0.168241,
+                    "symbol": "VRC",
+                    "volume_24h": 403616.0,
+                    "website_slug": "vericoin"
+                },
+                {
+                    "pair": "VRC/BTC",
+                    "percent_volume": 3.989385951,
+                    "price": 0.271397,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 16101.8
+                }
+            ],
+            [
+                {
+                    "name": "VeriCoin",
+                    "percent_change": -15.12,
+                    "price": 0.168241,
+                    "symbol": "VRC",
+                    "volume_24h": 403616.0,
+                    "website_slug": "vericoin"
+                },
+                {
+                    "pair": "VRC/BTC",
+                    "percent_volume": 1.44740049948,
+                    "price": 0.274891,
+                    "source": "Poloniex",
+                    "updated": true,
+                    "volume_24h": 5841.94
+                }
+            ],
+            [
+                {
+                    "name": "NoLimitCoin",
+                    "percent_change": -14.52,
+                    "price": 0.0463111,
+                    "symbol": "NLC2",
+                    "volume_24h": 97054.9,
+                    "website_slug": "nolimitcoin"
+                },
+                {
+                    "pair": "NLC2/BTC",
+                    "percent_volume": 23.9041828694,
+                    "price": 0.0475139,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 23236.3
+                }
+            ],
+            [
+                {
+                    "name": "CloakCoin",
+                    "percent_change": -14.17,
+                    "price": 3.91841,
+                    "symbol": "CLOAK",
+                    "volume_24h": 973778.0,
+                    "website_slug": "cloakcoin"
+                },
+                {
+                    "pair": "CLOAK/BTC",
+                    "percent_volume": 53.7855650877,
+                    "price": 3.93428,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 523752.0
+                }
+            ],
+            [
+                {
+                    "name": "CloakCoin",
+                    "percent_change": -14.17,
+                    "price": 3.91841,
+                    "symbol": "CLOAK",
+                    "volume_24h": 973778.0,
+                    "website_slug": "cloakcoin"
+                },
+                {
+                    "pair": "CLOAK/BTC",
+                    "percent_volume": 22.1248580272,
+                    "price": 3.95175,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 215447.0
+                }
+            ],
+            [
+                {
+                    "name": "CloakCoin",
+                    "percent_change": -14.17,
+                    "price": 3.91841,
+                    "symbol": "CLOAK",
+                    "volume_24h": 973778.0,
+                    "website_slug": "cloakcoin"
+                },
+                {
+                    "pair": "CLOAK/ETH",
+                    "percent_volume": 10.2608294704,
+                    "price": 3.91854,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 99917.7
+                }
+            ],
+            [
+                {
+                    "name": "Internet of People",
+                    "percent_change": -12.48,
+                    "price": 0.71671,
+                    "symbol": "IOP",
+                    "volume_24h": 59932.0,
+                    "website_slug": "internet-of-people"
+                },
+                {
+                    "pair": "IOP/BTC",
+                    "percent_volume": 24.0887363811,
+                    "price": 0.733002,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 14433.2
+                }
+            ]
+        ],
+        "7d": [
+            [
+                {
+                    "name": "Pundi X",
+                    "percent_change": -45.58,
+                    "price": 0.00578619,
+                    "symbol": "NPXS",
+                    "volume_24h": 15127600.0,
+                    "website_slug": "pundi-x"
+                },
+                {
+                    "pair": "NPXS/BTC",
+                    "percent_volume": 67.3722203125,
+                    "price": 0.00582266,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 10191800.0
+                }
+            ],
+            [
+                {
+                    "name": "Pundi X",
+                    "percent_change": -45.58,
+                    "price": 0.00578619,
+                    "symbol": "NPXS",
+                    "volume_24h": 15127600.0,
+                    "website_slug": "pundi-x"
+                },
+                {
+                    "pair": "NPXS/ETH",
+                    "percent_volume": 15.5853539226,
+                    "price": 0.0057746,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 2357690.0
+                }
+            ],
+            [
+                {
+                    "name": "Crowd Machine",
+                    "percent_change": -41.85,
+                    "price": 0.0326104,
+                    "symbol": "CMCT",
+                    "volume_24h": 1114150.0,
+                    "website_slug": "crowd-machine"
+                },
+                {
+                    "pair": "CMCT/BTC",
+                    "percent_volume": 6.68952115963,
+                    "price": 0.0305843,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 74531.3
+                }
+            ]
+        ]
+    }
+}

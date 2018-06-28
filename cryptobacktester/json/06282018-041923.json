@@ -1,0 +1,2340 @@
+{
+    "gainers": {
+        "1h": [
+            [
+                {
+                    "name": "Selfkey",
+                    "percent_change": 11.7,
+                    "price": 0.0100619,
+                    "symbol": "KEY",
+                    "volume_24h": 7949740.0,
+                    "website_slug": "selfkey"
+                },
+                {
+                    "pair": "KEY/BTC",
+                    "percent_volume": 82.7254727828,
+                    "price": 0.0100949,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 6576460.0
+                }
+            ],
+            [
+                {
+                    "name": "Selfkey",
+                    "percent_change": 11.7,
+                    "price": 0.0100619,
+                    "symbol": "KEY",
+                    "volume_24h": 7949740.0,
+                    "website_slug": "selfkey"
+                },
+                {
+                    "pair": "KEY/ETH",
+                    "percent_volume": 8.90180056203,
+                    "price": 0.0100557,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 707670.0
+                }
+            ],
+            [
+                {
+                    "name": "Expanse",
+                    "percent_change": 8.71,
+                    "price": 0.868807,
+                    "symbol": "EXP",
+                    "volume_24h": 148858.0,
+                    "website_slug": "expanse"
+                },
+                {
+                    "pair": "EXP/BTC",
+                    "percent_volume": 43.3601821871,
+                    "price": 0.867609,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 64545.1
+                }
+            ],
+            [
+                {
+                    "name": "Expanse",
+                    "percent_change": 8.71,
+                    "price": 0.868807,
+                    "symbol": "EXP",
+                    "volume_24h": 148858.0,
+                    "website_slug": "expanse"
+                },
+                {
+                    "pair": "EXP/BTC",
+                    "percent_volume": 14.7142242943,
+                    "price": 0.870974,
+                    "source": "Poloniex",
+                    "updated": true,
+                    "volume_24h": 21903.3
+                }
+            ],
+            [
+                {
+                    "name": "BlackCoin",
+                    "percent_change": 7.69,
+                    "price": 0.134386,
+                    "symbol": "BLK",
+                    "volume_24h": 396517.0,
+                    "website_slug": "blackcoin"
+                },
+                {
+                    "pair": "BLK/BTC",
+                    "percent_volume": 1.01637760802,
+                    "price": 0.124198,
+                    "source": "Poloniex",
+                    "updated": true,
+                    "volume_24h": 4030.11
+                }
+            ],
+            [
+                {
+                    "name": "BlackCoin",
+                    "percent_change": 7.69,
+                    "price": 0.134386,
+                    "symbol": "BLK",
+                    "volume_24h": 396517.0,
+                    "website_slug": "blackcoin"
+                },
+                {
+                    "pair": "BLK/BTC",
+                    "percent_volume": 0.847640832549,
+                    "price": 0.124871,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 3361.04
+                }
+            ],
+            [
+                {
+                    "name": "BlackCoin",
+                    "percent_change": 7.69,
+                    "price": 0.134386,
+                    "symbol": "BLK",
+                    "volume_24h": 396517.0,
+                    "website_slug": "blackcoin"
+                },
+                {
+                    "pair": "BLK/XMR",
+                    "percent_volume": 0.305762426327,
+                    "price": 0.123902,
+                    "source": "Poloniex",
+                    "updated": true,
+                    "volume_24h": 1212.4
+                }
+            ],
+            [
+                {
+                    "name": "ETHLend",
+                    "percent_change": 5.33,
+                    "price": 0.0248303,
+                    "symbol": "LEND",
+                    "volume_24h": 455073.0,
+                    "website_slug": "ethlend"
+                },
+                {
+                    "pair": "LEND/BTC",
+                    "percent_volume": 79.8623517546,
+                    "price": 0.0248395,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 363432.0
+                }
+            ],
+            [
+                {
+                    "name": "ETHLend",
+                    "percent_change": 5.33,
+                    "price": 0.0248303,
+                    "symbol": "LEND",
+                    "volume_24h": 455073.0,
+                    "website_slug": "ethlend"
+                },
+                {
+                    "pair": "LEND/ETH",
+                    "percent_volume": 12.3441074289,
+                    "price": 0.0248452,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 56174.7
+                }
+            ],
+            [
+                {
+                    "name": "Internet of People",
+                    "percent_change": 4.34,
+                    "price": 0.738625,
+                    "symbol": "IOP",
+                    "volume_24h": 53645.7,
+                    "website_slug": "internet-of-people"
+                },
+                {
+                    "pair": "IOP/BTC",
+                    "percent_volume": 19.8837931092,
+                    "price": 0.733378,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 10666.8
+                }
+            ],
+            [
+                {
+                    "name": "VeriCoin",
+                    "percent_change": 4.27,
+                    "price": 0.179612,
+                    "symbol": "VRC",
+                    "volume_24h": 402547.0,
+                    "website_slug": "vericoin"
+                },
+                {
+                    "pair": "VRC/BTC",
+                    "percent_volume": 3.2833929951,
+                    "price": 0.279598,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 13217.2
+                }
+            ],
+            [
+                {
+                    "name": "VeriCoin",
+                    "percent_change": 4.27,
+                    "price": 0.179612,
+                    "symbol": "VRC",
+                    "volume_24h": 402547.0,
+                    "website_slug": "vericoin"
+                },
+                {
+                    "pair": "VRC/BTC",
+                    "percent_volume": 0.631069167079,
+                    "price": 0.274152,
+                    "source": "Poloniex",
+                    "updated": true,
+                    "volume_24h": 2540.35
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "BNB/USDT",
+                    "percent_volume": 46.8278015351,
+                    "price": 14.5009,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 22317100.0
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "BNB/BTC",
+                    "percent_volume": 35.4875802072,
+                    "price": 14.4938,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 16912600.0
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "BNB/ETH",
+                    "percent_volume": 4.51420334132,
+                    "price": 14.5074,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 2151370.0
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "EOS/BNB",
+                    "percent_volume": 1.79422256168,
+                    "price": 14.3714,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 855087.0
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "ONT/BNB",
+                    "percent_volume": 1.08772960565,
+                    "price": 14.5445,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 518388.0
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "ADA/BNB",
+                    "percent_volume": 0.747394969973,
+                    "price": 14.5439,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 356192.0
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "MCO/BNB",
+                    "percent_volume": 0.670068698093,
+                    "price": 14.4981,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 319340.0
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "THETA/BNB",
+                    "percent_volume": 0.549332952843,
+                    "price": 14.6348,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 261800.0
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "LTC/BNB",
+                    "percent_volume": 0.507031377865,
+                    "price": 14.5764,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 241640.0
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "XRP/BNB",
+                    "percent_volume": 0.503755943413,
+                    "price": 14.6023,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 240079.0
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "VEN/BNB",
+                    "percent_volume": 0.503592276605,
+                    "price": 14.5566,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 240001.0
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "ETC/BNB",
+                    "percent_volume": 0.492658074859,
+                    "price": 14.5096,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 234790.0
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "ZIL/BNB",
+                    "percent_volume": 0.47882193471,
+                    "price": 14.5685,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 228196.0
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "TUSD/BNB",
+                    "percent_volume": 0.443241190319,
+                    "price": 14.5789,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 211239.0
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "NEO/BNB",
+                    "percent_volume": 0.369339331652,
+                    "price": 14.5433,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 176019.0
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "BCC/BNB",
+                    "percent_volume": 0.346799474588,
+                    "price": 14.4836,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 165277.0
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "QTUM/BNB",
+                    "percent_volume": 0.33373130946,
+                    "price": 14.6418,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 159049.0
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "VIA/BNB",
+                    "percent_volume": 0.319578327157,
+                    "price": 14.3009,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 152304.0
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "ICX/BNB",
+                    "percent_volume": 0.303429868773,
+                    "price": 14.5314,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 144608.0
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "IOTA/BNB",
+                    "percent_volume": 0.280948763896,
+                    "price": 14.5799,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 133894.0
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "XLM/BNB",
+                    "percent_volume": 0.266445366761,
+                    "price": 14.487,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 126982.0
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "WTC/BNB",
+                    "percent_volume": 0.253572342827,
+                    "price": 14.3975,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 120847.0
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "GTO/BNB",
+                    "percent_volume": 0.213094183953,
+                    "price": 14.7599,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 101556.0
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "LOOM/BNB",
+                    "percent_volume": 0.204781798572,
+                    "price": 14.5108,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 97594.5
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "NANO/BNB",
+                    "percent_volume": 0.194228646727,
+                    "price": 14.5105,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 92565.1
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "GNT/BNB",
+                    "percent_volume": 0.19322713176,
+                    "price": 14.5633,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 92087.8
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "WAVES/BNB",
+                    "percent_volume": 0.154932875626,
+                    "price": 14.609,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 73837.6
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "WAN/BNB",
+                    "percent_volume": 0.138007209733,
+                    "price": 14.5153,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 65771.2
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "AION/BNB",
+                    "percent_volume": 0.137872289531,
+                    "price": 14.7889,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 65706.9
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "QSP/BNB",
+                    "percent_volume": 0.133776842406,
+                    "price": 14.5466,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 63755.1
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "BCN/BNB",
+                    "percent_volume": 0.125964899765,
+                    "price": 14.4522,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 60032.1
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "DLT/BNB",
+                    "percent_volume": 0.0970015401466,
+                    "price": 14.3771,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 46228.8
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "NCASH/BNB",
+                    "percent_volume": 0.0959278439206,
+                    "price": 14.4764,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 45717.1
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "SKY/BNB",
+                    "percent_volume": 0.0837287915095,
+                    "price": 14.6458,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 39903.3
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "BAT/BNB",
+                    "percent_volume": 0.0786528123413,
+                    "price": 14.1764,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 37484.2
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "XZC/BNB",
+                    "percent_volume": 0.0748028654281,
+                    "price": 14.5953,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 35649.4
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "ZEN/BNB",
+                    "percent_volume": 0.073446948873,
+                    "price": 14.3809,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 35003.2
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "SC/BNB",
+                    "percent_volume": 0.0583877140783,
+                    "price": 14.6119,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 27826.3
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "XEM/BNB",
+                    "percent_volume": 0.0498631913349,
+                    "price": 14.4229,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 23763.7
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "BLZ/BNB",
+                    "percent_volume": 0.048362072945,
+                    "price": 14.5419,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 23048.3
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "AE/BNB",
+                    "percent_volume": 0.0476780296195,
+                    "price": 14.834,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 22722.3
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "CMT/BNB",
+                    "percent_volume": 0.0473072613507,
+                    "price": 14.9039,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 22545.6
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "LSK/BNB",
+                    "percent_volume": 0.0469631413955,
+                    "price": 14.4956,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 22381.6
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "NULS/BNB",
+                    "percent_volume": 0.0425481243364,
+                    "price": 14.5992,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 20277.5
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "STEEM/BNB",
+                    "percent_volume": 0.0407291146465,
+                    "price": 14.4891,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 19410.6
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "STORM/BNB",
+                    "percent_volume": 0.0389367532702,
+                    "price": 14.7067,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 18556.4
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "ADX/BNB",
+                    "percent_volume": 0.0375046687006,
+                    "price": 14.5697,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 17873.9
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "POWR/BNB",
+                    "percent_volume": 0.0341799243775,
+                    "price": 14.52,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 16289.4
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "OST/BNB",
+                    "percent_volume": 0.0341606200874,
+                    "price": 14.6293,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 16280.2
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "POA/BNB",
+                    "percent_volume": 0.0305884870892,
+                    "price": 14.6502,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 14577.8
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "ENJ/BNB",
+                    "percent_volume": 0.0256856170448,
+                    "price": 14.0727,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 12241.2
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "NEBL/BNB",
+                    "percent_volume": 0.0237415491273,
+                    "price": 14.8055,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 11314.7
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "PIVX/BNB",
+                    "percent_volume": 0.0234924818183,
+                    "price": 14.156,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 11196.0
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "SYS/BNB",
+                    "percent_volume": 0.0231951537839,
+                    "price": 14.7222,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 11054.3
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "BCPT/BNB",
+                    "percent_volume": 0.0218904355635,
+                    "price": 14.3782,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 10432.5
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "RLC/BNB",
+                    "percent_volume": 0.020400291243,
+                    "price": 14.6005,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 9722.33
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "AMB/BNB",
+                    "percent_volume": 0.0184577131131,
+                    "price": 14.6628,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 8796.54
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "YOYO/BNB",
+                    "percent_volume": 0.018057170075,
+                    "price": 14.5022,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 8605.65
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "WABI/BNB",
+                    "percent_volume": 0.0168267943548,
+                    "price": 14.4254,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 8019.28
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "CVC/BNB",
+                    "percent_volume": 0.0146082488071,
+                    "price": 13.709,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 6961.97
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "NAV/BNB",
+                    "percent_volume": 0.013260893285,
+                    "price": 14.498,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 6319.85
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "RCN/BNB",
+                    "percent_volume": 0.0129694824352,
+                    "price": 14.622,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 6180.97
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "QLC/BNB",
+                    "percent_volume": 0.0116372975672,
+                    "price": 14.4677,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 5546.08
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "BRD/BNB",
+                    "percent_volume": 0.0116248337103,
+                    "price": 14.4871,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 5540.14
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "TRIG/BNB",
+                    "percent_volume": 0.0112036644579,
+                    "price": 14.3899,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 5339.42
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "AGI/BNB",
+                    "percent_volume": 0.0106332646492,
+                    "price": 14.6582,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 5067.58
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "CND/BNB",
+                    "percent_volume": 0.0105562992836,
+                    "price": 14.7324,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 5030.9
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "APPC/BNB",
+                    "percent_volume": 0.0102297000701,
+                    "price": 14.7476,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 4875.25
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "NXS/BNB",
+                    "percent_volume": 0.0101071178275,
+                    "price": 14.6356,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 4816.83
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "RDN/BNB",
+                    "percent_volume": 0.00764059608291,
+                    "price": 14.4834,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 3641.34
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "RPX/BNB",
+                    "percent_volume": 0.00732251593653,
+                    "price": 14.6789,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 3489.75
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "REP/BNB",
+                    "percent_volume": 0.00628310580849,
+                    "price": 14.3713,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 2994.39
+                }
+            ],
+            [
+                {
+                    "name": "Binance Coin",
+                    "percent_change": 3.65,
+                    "price": 14.5012,
+                    "symbol": "BNB",
+                    "volume_24h": 47657800.0,
+                    "website_slug": "binance-coin"
+                },
+                {
+                    "pair": "BTS/BNB",
+                    "percent_volume": 0.00409496451788,
+                    "price": 14.574,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 1951.57
+                }
+            ]
+        ],
+        "24h": [
+            [
+                {
+                    "name": "Selfkey",
+                    "percent_change": 25.53,
+                    "price": 0.0100619,
+                    "symbol": "KEY",
+                    "volume_24h": 7949740.0,
+                    "website_slug": "selfkey"
+                },
+                {
+                    "pair": "KEY/BTC",
+                    "percent_volume": 82.7254727828,
+                    "price": 0.0100949,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 6576460.0
+                }
+            ],
+            [
+                {
+                    "name": "Selfkey",
+                    "percent_change": 25.53,
+                    "price": 0.0100619,
+                    "symbol": "KEY",
+                    "volume_24h": 7949740.0,
+                    "website_slug": "selfkey"
+                },
+                {
+                    "pair": "KEY/ETH",
+                    "percent_volume": 8.90180056203,
+                    "price": 0.0100557,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 707670.0
+                }
+            ],
+            [
+                {
+                    "name": "Monaco",
+                    "percent_change": 14.46,
+                    "price": 5.85611,
+                    "symbol": "MCO",
+                    "volume_24h": 25367100.0,
+                    "website_slug": "monaco"
+                },
+                {
+                    "pair": "MCO/BTC",
+                    "percent_volume": 18.2215941121,
+                    "price": 5.97127,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 4622290.0
+                }
+            ],
+            [
+                {
+                    "name": "Monaco",
+                    "percent_change": 14.46,
+                    "price": 5.85611,
+                    "symbol": "MCO",
+                    "volume_24h": 25367100.0,
+                    "website_slug": "monaco"
+                },
+                {
+                    "pair": "MCO/BTC",
+                    "percent_volume": 4.94427821864,
+                    "price": 5.99587,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 1254220.0
+                }
+            ],
+            [
+                {
+                    "name": "Monaco",
+                    "percent_change": 14.46,
+                    "price": 5.85611,
+                    "symbol": "MCO",
+                    "volume_24h": 25367100.0,
+                    "website_slug": "monaco"
+                },
+                {
+                    "pair": "MCO/ETH",
+                    "percent_volume": 3.61170177119,
+                    "price": 5.96589,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 916184.0
+                }
+            ],
+            [
+                {
+                    "name": "Monaco",
+                    "percent_change": 14.46,
+                    "price": 5.85611,
+                    "symbol": "MCO",
+                    "volume_24h": 25367100.0,
+                    "website_slug": "monaco"
+                },
+                {
+                    "pair": "MCO/BNB",
+                    "percent_volume": 1.25887468414,
+                    "price": 5.90621,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 319340.0
+                }
+            ],
+            [
+                {
+                    "name": "Monaco",
+                    "percent_change": 14.46,
+                    "price": 5.85611,
+                    "symbol": "MCO",
+                    "volume_24h": 25367100.0,
+                    "website_slug": "monaco"
+                },
+                {
+                    "pair": "MCO/ETH",
+                    "percent_volume": 0.581647094071,
+                    "price": 5.9927,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 147547.0
+                }
+            ],
+            [
+                {
+                    "name": "Monero",
+                    "percent_change": 6.43,
+                    "price": 130.684,
+                    "symbol": "XMR",
+                    "volume_24h": 31981000.0,
+                    "website_slug": "monero"
+                },
+                {
+                    "pair": "XMR/BTC",
+                    "percent_volume": 12.2306056721,
+                    "price": 130.781,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 3911470.0
+                }
+            ],
+            [
+                {
+                    "name": "Monero",
+                    "percent_change": 6.43,
+                    "price": 130.684,
+                    "symbol": "XMR",
+                    "volume_24h": 31981000.0,
+                    "website_slug": "monero"
+                },
+                {
+                    "pair": "XMR/BTC",
+                    "percent_volume": 7.87286201182,
+                    "price": 130.805,
+                    "source": "Poloniex",
+                    "updated": true,
+                    "volume_24h": 2517820.0
+                }
+            ],
+            [
+                {
+                    "name": "Monero",
+                    "percent_change": 6.43,
+                    "price": 130.684,
+                    "symbol": "XMR",
+                    "volume_24h": 31981000.0,
+                    "website_slug": "monero"
+                },
+                {
+                    "pair": "XMR/ETH",
+                    "percent_volume": 2.24373534286,
+                    "price": 130.995,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 717569.0
+                }
+            ],
+            [
+                {
+                    "name": "Monero",
+                    "percent_change": 6.43,
+                    "price": 130.684,
+                    "symbol": "XMR",
+                    "volume_24h": 31981000.0,
+                    "website_slug": "monero"
+                },
+                {
+                    "pair": "XMR/BTC",
+                    "percent_volume": 1.50146649573,
+                    "price": 130.924,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 480184.0
+                }
+            ],
+            [
+                {
+                    "name": "Monero",
+                    "percent_change": 6.43,
+                    "price": 130.684,
+                    "symbol": "XMR",
+                    "volume_24h": 31981000.0,
+                    "website_slug": "monero"
+                },
+                {
+                    "pair": "XMR/USDT",
+                    "percent_volume": 1.16733998311,
+                    "price": 130.926,
+                    "source": "Poloniex",
+                    "updated": true,
+                    "volume_24h": 373327.0
+                }
+            ],
+            [
+                {
+                    "name": "Monero",
+                    "percent_change": 6.43,
+                    "price": 130.684,
+                    "symbol": "XMR",
+                    "volume_24h": 31981000.0,
+                    "website_slug": "monero"
+                },
+                {
+                    "pair": "XMR/USDT",
+                    "percent_volume": 0.534207810888,
+                    "price": 131.614,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 170845.0
+                }
+            ],
+            [
+                {
+                    "name": "Monero",
+                    "percent_change": 6.43,
+                    "price": 130.684,
+                    "symbol": "XMR",
+                    "volume_24h": 31981000.0,
+                    "website_slug": "monero"
+                },
+                {
+                    "pair": "XMR/ETH",
+                    "percent_volume": 0.110475594884,
+                    "price": 129.893,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 35331.2
+                }
+            ],
+            [
+                {
+                    "name": "Monero",
+                    "percent_change": 6.43,
+                    "price": 130.684,
+                    "symbol": "XMR",
+                    "volume_24h": 31981000.0,
+                    "website_slug": "monero"
+                },
+                {
+                    "pair": "LTC/XMR",
+                    "percent_volume": 0.0672521184453,
+                    "price": 129.335,
+                    "source": "Poloniex",
+                    "updated": true,
+                    "volume_24h": 21507.9
+                }
+            ],
+            [
+                {
+                    "name": "Monero",
+                    "percent_change": 6.43,
+                    "price": 130.684,
+                    "symbol": "XMR",
+                    "volume_24h": 31981000.0,
+                    "website_slug": "monero"
+                },
+                {
+                    "pair": "ZEC/XMR",
+                    "percent_volume": 0.0348178606047,
+                    "price": 130.211,
+                    "source": "Poloniex",
+                    "updated": true,
+                    "volume_24h": 11135.1
+                }
+            ],
+            [
+                {
+                    "name": "Monero",
+                    "percent_change": 6.43,
+                    "price": 130.684,
+                    "symbol": "XMR",
+                    "volume_24h": 31981000.0,
+                    "website_slug": "monero"
+                },
+                {
+                    "pair": "DASH/XMR",
+                    "percent_volume": 0.0234712798224,
+                    "price": 130.236,
+                    "source": "Poloniex",
+                    "updated": true,
+                    "volume_24h": 7506.35
+                }
+            ],
+            [
+                {
+                    "name": "Monero",
+                    "percent_change": 6.43,
+                    "price": 130.684,
+                    "symbol": "XMR",
+                    "volume_24h": 31981000.0,
+                    "website_slug": "monero"
+                },
+                {
+                    "pair": "BCN/XMR",
+                    "percent_volume": 0.00414699352741,
+                    "price": 129.671,
+                    "source": "Poloniex",
+                    "updated": true,
+                    "volume_24h": 1326.25
+                }
+            ],
+            [
+                {
+                    "name": "Monero",
+                    "percent_change": 6.43,
+                    "price": 130.684,
+                    "symbol": "XMR",
+                    "volume_24h": 31981000.0,
+                    "website_slug": "monero"
+                },
+                {
+                    "pair": "BLK/XMR",
+                    "percent_volume": 0.00379100090679,
+                    "price": 123.738,
+                    "source": "Poloniex",
+                    "updated": true,
+                    "volume_24h": 1212.4
+                }
+            ],
+            [
+                {
+                    "name": "Monero",
+                    "percent_change": 6.43,
+                    "price": 130.684,
+                    "symbol": "XMR",
+                    "volume_24h": 31981000.0,
+                    "website_slug": "monero"
+                },
+                {
+                    "pair": "MAID/XMR",
+                    "percent_volume": 0.00210954941997,
+                    "price": 137.954,
+                    "source": "Poloniex",
+                    "updated": true,
+                    "volume_24h": 674.655
+                }
+            ],
+            [
+                {
+                    "name": "Monero",
+                    "percent_change": 6.43,
+                    "price": 130.684,
+                    "symbol": "XMR",
+                    "volume_24h": 31981000.0,
+                    "website_slug": "monero"
+                },
+                {
+                    "pair": "BTCD/XMR",
+                    "percent_volume": 0.00207353115913,
+                    "price": 132.46,
+                    "source": "Poloniex",
+                    "updated": true,
+                    "volume_24h": 663.136
+                }
+            ],
+            [
+                {
+                    "name": "Monero",
+                    "percent_change": 6.43,
+                    "price": 130.684,
+                    "symbol": "XMR",
+                    "volume_24h": 31981000.0,
+                    "website_slug": "monero"
+                },
+                {
+                    "pair": "NXT/XMR",
+                    "percent_volume": 0.00101656608611,
+                    "price": 134.868,
+                    "source": "Poloniex",
+                    "updated": true,
+                    "volume_24h": 325.108
+                }
+            ]
+        ],
+        "7d": [
+            [
+                {
+                    "name": "Selfkey",
+                    "percent_change": 36.63,
+                    "price": 0.0100619,
+                    "symbol": "KEY",
+                    "volume_24h": 7949740.0,
+                    "website_slug": "selfkey"
+                },
+                {
+                    "pair": "KEY/BTC",
+                    "percent_volume": 82.7254727828,
+                    "price": 0.0100949,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 6576460.0
+                }
+            ],
+            [
+                {
+                    "name": "Selfkey",
+                    "percent_change": 36.63,
+                    "price": 0.0100619,
+                    "symbol": "KEY",
+                    "volume_24h": 7949740.0,
+                    "website_slug": "selfkey"
+                },
+                {
+                    "pair": "KEY/ETH",
+                    "percent_volume": 8.90180056203,
+                    "price": 0.0100557,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 707670.0
+                }
+            ],
+            [
+                {
+                    "name": "DigiByte",
+                    "percent_change": 21.18,
+                    "price": 0.025294,
+                    "symbol": "DGB",
+                    "volume_24h": 5412920.0,
+                    "website_slug": "digibyte"
+                },
+                {
+                    "pair": "DGB/BTC",
+                    "percent_volume": 41.3774820245,
+                    "price": 0.0252066,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 2239730.0
+                }
+            ],
+            [
+                {
+                    "name": "DigiByte",
+                    "percent_change": 21.18,
+                    "price": 0.025294,
+                    "symbol": "DGB",
+                    "volume_24h": 5412920.0,
+                    "website_slug": "digibyte"
+                },
+                {
+                    "pair": "DGB/BTC",
+                    "percent_volume": 20.290342366,
+                    "price": 0.0250842,
+                    "source": "Poloniex",
+                    "updated": true,
+                    "volume_24h": 1098300.0
+                }
+            ],
+            [
+                {
+                    "name": "DigiByte",
+                    "percent_change": 21.18,
+                    "price": 0.025294,
+                    "symbol": "DGB",
+                    "volume_24h": 5412920.0,
+                    "website_slug": "digibyte"
+                },
+                {
+                    "pair": "DGB/ETH",
+                    "percent_volume": 1.89500306674,
+                    "price": 0.0255818,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 102575.0
+                }
+            ]
+        ]
+    },
+    "losers": {
+        "1h": [
+            [
+                {
+                    "name": "Crowd Machine",
+                    "percent_change": -14.21,
+                    "price": 0.0301853,
+                    "symbol": "CMCT",
+                    "volume_24h": 844130.0,
+                    "website_slug": "crowd-machine"
+                },
+                {
+                    "pair": "CMCT/BTC",
+                    "percent_volume": 2.34476917063,
+                    "price": 0.0293669,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 19792.9
+                }
+            ],
+            [
+                {
+                    "name": "DECENT",
+                    "percent_change": -3.23,
+                    "price": 0.329925,
+                    "symbol": "DCT",
+                    "volume_24h": 175453.0,
+                    "website_slug": "decent"
+                },
+                {
+                    "pair": "DCT/BTC",
+                    "percent_volume": 22.6986144438,
+                    "price": 0.320099,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 39825.4
+                }
+            ],
+            [
+                {
+                    "name": "Nxt",
+                    "percent_change": -2.98,
+                    "price": 0.091603,
+                    "symbol": "NXT",
+                    "volume_24h": 2844120.0,
+                    "website_slug": "nxt"
+                },
+                {
+                    "pair": "NXT/BTC",
+                    "percent_volume": 3.50428251972,
+                    "price": 0.0928729,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 99666.0
+                }
+            ],
+            [
+                {
+                    "name": "Nxt",
+                    "percent_change": -2.98,
+                    "price": 0.091603,
+                    "symbol": "NXT",
+                    "volume_24h": 2844120.0,
+                    "website_slug": "nxt"
+                },
+                {
+                    "pair": "NXT/USDT",
+                    "percent_volume": 2.98179753316,
+                    "price": 0.092751,
+                    "source": "Poloniex",
+                    "updated": true,
+                    "volume_24h": 84805.9
+                }
+            ],
+            [
+                {
+                    "name": "Nxt",
+                    "percent_change": -2.98,
+                    "price": 0.091603,
+                    "symbol": "NXT",
+                    "volume_24h": 2844120.0,
+                    "website_slug": "nxt"
+                },
+                {
+                    "pair": "NXT/BTC",
+                    "percent_volume": 2.27324093217,
+                    "price": 0.0930564,
+                    "source": "Poloniex",
+                    "updated": true,
+                    "volume_24h": 64653.7
+                }
+            ],
+            [
+                {
+                    "name": "Nxt",
+                    "percent_change": -2.98,
+                    "price": 0.091603,
+                    "symbol": "NXT",
+                    "volume_24h": 2844120.0,
+                    "website_slug": "nxt"
+                },
+                {
+                    "pair": "NXT/USDT",
+                    "percent_volume": 0.793387761417,
+                    "price": 0.0934975,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 22564.9
+                }
+            ],
+            [
+                {
+                    "name": "Nxt",
+                    "percent_change": -2.98,
+                    "price": 0.091603,
+                    "symbol": "NXT",
+                    "volume_24h": 2844120.0,
+                    "website_slug": "nxt"
+                },
+                {
+                    "pair": "NXT/XMR",
+                    "percent_volume": 0.01143088196,
+                    "price": 0.0914371,
+                    "source": "Poloniex",
+                    "updated": true,
+                    "volume_24h": 325.108
+                }
+            ],
+            [
+                {
+                    "name": "BLOCKv",
+                    "percent_change": -2.55,
+                    "price": 0.0161367,
+                    "symbol": "VEE",
+                    "volume_24h": 332316.0,
+                    "website_slug": "blockv"
+                },
+                {
+                    "pair": "VEE/BTC",
+                    "percent_volume": 4.95817234199,
+                    "price": 0.0164577,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 16476.8
+                }
+            ],
+            [
+                {
+                    "name": "BLOCKv",
+                    "percent_change": -2.55,
+                    "price": 0.0161367,
+                    "symbol": "VEE",
+                    "volume_24h": 332316.0,
+                    "website_slug": "blockv"
+                },
+                {
+                    "pair": "VEE/ETH",
+                    "percent_volume": 0.722935398837,
+                    "price": 0.0166506,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 2402.43
+                }
+            ],
+            [
+                {
+                    "name": "DMarket",
+                    "percent_change": -2.48,
+                    "price": 0.167177,
+                    "symbol": "DMT",
+                    "volume_24h": 109798.0,
+                    "website_slug": "dmarket"
+                },
+                {
+                    "pair": "DMT/BTC",
+                    "percent_volume": 57.6299203993,
+                    "price": 0.168737,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 63276.5
+                }
+            ],
+            [
+                {
+                    "name": "DMarket",
+                    "percent_change": -2.48,
+                    "price": 0.167177,
+                    "symbol": "DMT",
+                    "volume_24h": 109798.0,
+                    "website_slug": "dmarket"
+                },
+                {
+                    "pair": "DMT/ETH",
+                    "percent_volume": 0.715893732126,
+                    "price": 0.162021,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 786.037
+                }
+            ]
+        ],
+        "24h": [
+            [
+                {
+                    "name": "UnbreakableCoin",
+                    "percent_change": -13.25,
+                    "price": 0.308353,
+                    "symbol": "UNB",
+                    "volume_24h": 488706.0,
+                    "website_slug": "unbreakablecoin"
+                },
+                {
+                    "pair": "UNB/BTC",
+                    "percent_volume": 50.0712084566,
+                    "price": 0.308353,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 244701.0
+                }
+            ],
+            [
+                {
+                    "name": "Theta Token",
+                    "percent_change": -9.43,
+                    "price": 0.156203,
+                    "symbol": "THETA",
+                    "volume_24h": 21128400.0,
+                    "website_slug": "theta-token"
+                },
+                {
+                    "pair": "THETA/BTC",
+                    "percent_volume": 40.1534900892,
+                    "price": 0.156134,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 8483790.0
+                }
+            ],
+            [
+                {
+                    "name": "Theta Token",
+                    "percent_change": -9.43,
+                    "price": 0.156203,
+                    "symbol": "THETA",
+                    "volume_24h": 21128400.0,
+                    "website_slug": "theta-token"
+                },
+                {
+                    "pair": "THETA/ETH",
+                    "percent_volume": 3.49846178603,
+                    "price": 0.156045,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 739169.0
+                }
+            ],
+            [
+                {
+                    "name": "Theta Token",
+                    "percent_change": -9.43,
+                    "price": 0.156203,
+                    "symbol": "THETA",
+                    "volume_24h": 21128400.0,
+                    "website_slug": "theta-token"
+                },
+                {
+                    "pair": "THETA/BNB",
+                    "percent_volume": 1.23909051324,
+                    "price": 0.155079,
+                    "source": "Binance",
+                    "updated": true,
+                    "volume_24h": 261800.0
+                }
+            ]
+        ],
+        "7d": [
+            [
+                {
+                    "name": "Crowd Machine",
+                    "percent_change": -44.02,
+                    "price": 0.0301853,
+                    "symbol": "CMCT",
+                    "volume_24h": 844130.0,
+                    "website_slug": "crowd-machine"
+                },
+                {
+                    "pair": "CMCT/BTC",
+                    "percent_volume": 2.34476917063,
+                    "price": 0.0293669,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 19792.9
+                }
+            ],
+            [
+                {
+                    "name": "NoLimitCoin",
+                    "percent_change": -38.8,
+                    "price": 0.0444118,
+                    "symbol": "NLC2",
+                    "volume_24h": 69038.5,
+                    "website_slug": "nolimitcoin"
+                },
+                {
+                    "pair": "NLC2/BTC",
+                    "percent_volume": 41.3670633053,
+                    "price": 0.0442339,
+                    "source": "Bittrex",
+                    "updated": true,
+                    "volume_24h": 28559.2
+                }
+            ]
+        ]
+    }
+}

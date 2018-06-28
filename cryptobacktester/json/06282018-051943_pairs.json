@@ -1,0 +1,391 @@
+{
+    "result": {
+        "gainers": {
+            "1h": {
+                "BLK": {
+                    "BTC": {
+                        "market_cap": 1556.0,
+                        "percent_change_1h": -1.17,
+                        "percent_change_24h": 0.22,
+                        "percent_change_7d": -8.19,
+                        "price": 2.0233e-05,
+                        "volume_24h": 59.3519190888
+                    },
+                    "XMR": {
+                        "market_cap": 72324.0,
+                        "percent_change_1h": -1.44,
+                        "percent_change_24h": 0.18,
+                        "percent_change_7d": -16.83,
+                        "price": 0.0009401751,
+                        "volume_24h": 2757.9264956226
+                    }
+                },
+                "BNB": {
+                    "BNB": {
+                        "market_cap": 114041290.0,
+                        "percent_change_1h": 0,
+                        "percent_change_24h": 0,
+                        "percent_change_7d": 0,
+                        "price": 1.0,
+                        "volume_24h": 3545187.4534469917
+                    },
+                    "BTC": {
+                        "market_cap": 270438.0,
+                        "percent_change_1h": 0.32,
+                        "percent_change_24h": 2.69,
+                        "percent_change_7d": -2.29,
+                        "price": 0.0023714011,
+                        "volume_24h": 8407.0614095343
+                    },
+                    "ETH": {
+                        "market_cap": 3804831.0,
+                        "percent_change_1h": 0.34,
+                        "percent_change_24h": 3.49,
+                        "percent_change_7d": 9.28,
+                        "price": 0.0333636299,
+                        "volume_24h": 118280.3220484453
+                    },
+                    "USDT": {
+                        "market_cap": 1655195044.0,
+                        "percent_change_1h": 0.05,
+                        "percent_change_24h": 2.65,
+                        "percent_change_7d": -11.48,
+                        "price": 14.5139978859,
+                        "volume_24h": 51454843.20445882
+                    }
+                },
+                "EXP": {
+                    "BTC": {
+                        "market_cap": 1054.0,
+                        "percent_change_1h": -5.48,
+                        "percent_change_24h": 3.33,
+                        "percent_change_7d": -14.29,
+                        "price": 0.0001332703,
+                        "volume_24h": 24.9493059825
+                    }
+                },
+                "IOP": {
+                    "BTC": {
+                        "market_cap": 420.0,
+                        "percent_change_1h": -0.94,
+                        "percent_change_24h": -3.49,
+                        "percent_change_7d": -9.25,
+                        "price": 0.0001190004,
+                        "volume_24h": 8.2814718139
+                    }
+                },
+                "KEY": {
+                    "BTC": {
+                        "market_cap": 4558.0,
+                        "percent_change_1h": 38.38,
+                        "percent_change_24h": 84.31,
+                        "percent_change_7d": 90.52,
+                        "price": 2.2607e-06,
+                        "volume_24h": 2504.5630286735
+                    },
+                    "ETH": {
+                        "market_cap": 64124.0,
+                        "percent_change_1h": 38.4,
+                        "percent_change_24h": 85.74,
+                        "percent_change_7d": 113.08,
+                        "price": 3.18065e-05,
+                        "volume_24h": 35237.1069023201
+                    }
+                },
+                "LEND": {
+                    "BTC": {
+                        "market_cap": 4477.0,
+                        "percent_change_1h": 0.46,
+                        "percent_change_24h": 11.69,
+                        "percent_change_7d": -14.3,
+                        "price": 4.0831e-06,
+                        "volume_24h": 88.5644613664
+                    },
+                    "ETH": {
+                        "market_cap": 62992.0,
+                        "percent_change_1h": 0.48,
+                        "percent_change_24h": 12.55,
+                        "percent_change_7d": -4.15,
+                        "price": 5.74452e-05,
+                        "volume_24h": 1246.027892764
+                    }
+                },
+                "VRC": {
+                    "BTC": {
+                        "market_cap": 862.0,
+                        "percent_change_1h": -3.11,
+                        "percent_change_24h": -2.16,
+                        "percent_change_7d": -7.89,
+                        "price": 2.77728e-05,
+                        "volume_24h": 62.3084018605
+                    }
+                }
+            },
+            "24h": {
+                "KEY": {
+                    "BTC": {
+                        "market_cap": 4558.0,
+                        "percent_change_1h": 38.38,
+                        "percent_change_24h": 84.31,
+                        "percent_change_7d": 90.52,
+                        "price": 2.2607e-06,
+                        "volume_24h": 2504.5630286735
+                    },
+                    "ETH": {
+                        "market_cap": 64124.0,
+                        "percent_change_1h": 38.4,
+                        "percent_change_24h": 85.74,
+                        "percent_change_7d": 113.08,
+                        "price": 3.18065e-05,
+                        "volume_24h": 35237.1069023201
+                    }
+                },
+                "MCO": {
+                    "BNB": {
+                        "market_cap": 6259671.0,
+                        "percent_change_1h": -2.01,
+                        "percent_change_24h": 0.61,
+                        "percent_change_7d": 12.47,
+                        "price": 0.3963364507,
+                        "volume_24h": 1769931.5843195675
+                    },
+                    "BTC": {
+                        "market_cap": 14844.0,
+                        "percent_change_1h": -1.74,
+                        "percent_change_24h": 0.65,
+                        "percent_change_7d": 24.15,
+                        "price": 0.0009398727,
+                        "volume_24h": 4197.2176973551
+                    },
+                    "ETH": {
+                        "market_cap": 208845.0,
+                        "percent_change_1h": -1.72,
+                        "percent_change_24h": 1.43,
+                        "percent_change_7d": 38.85,
+                        "price": 0.0132232226,
+                        "volume_24h": 59051.3422903728
+                    }
+                },
+                "XMR": {
+                    "BTC": {
+                        "market_cap": 348076.0,
+                        "percent_change_1h": 0.96,
+                        "percent_change_24h": 2.44,
+                        "percent_change_7d": 18.41,
+                        "price": 0.0215204862,
+                        "volume_24h": 5169.6661629345
+                    },
+                    "ETH": {
+                        "market_cap": 4897145.0,
+                        "percent_change_1h": 0.98,
+                        "percent_change_24h": 3.24,
+                        "percent_change_7d": 32.43,
+                        "price": 0.3027752403,
+                        "volume_24h": 72732.8788084484
+                    },
+                    "USDT": {
+                        "market_cap": 2130378301.0,
+                        "percent_change_1h": 0.68,
+                        "percent_change_24h": 2.4,
+                        "percent_change_7d": 7.27,
+                        "price": 131.7146609437,
+                        "volume_24h": 31640587.46276306
+                    },
+                    "XMR": {
+                        "market_cap": 16174193.0,
+                        "percent_change_1h": 0,
+                        "percent_change_24h": 0,
+                        "percent_change_7d": 0,
+                        "price": 1.0,
+                        "volume_24h": 240220.6955252918
+                    }
+                }
+            },
+            "7d": {
+                "DGB": {
+                    "BTC": {
+                        "market_cap": 42740.0,
+                        "percent_change_1h": -0.27,
+                        "percent_change_24h": 19.16,
+                        "percent_change_7d": 4.68,
+                        "price": 4.0894e-06,
+                        "volume_24h": 921.7710439032
+                    },
+                    "ETH": {
+                        "market_cap": 601317.0,
+                        "percent_change_1h": -0.25,
+                        "percent_change_24h": 20.09,
+                        "percent_change_7d": 17.07,
+                        "price": 5.75341e-05,
+                        "volume_24h": 12968.5475836012
+                    }
+                },
+                "KEY": {
+                    "BTC": {
+                        "market_cap": 4558.0,
+                        "percent_change_1h": 38.38,
+                        "percent_change_24h": 84.31,
+                        "percent_change_7d": 90.52,
+                        "price": 2.2607e-06,
+                        "volume_24h": 2504.5630286735
+                    },
+                    "ETH": {
+                        "market_cap": 64124.0,
+                        "percent_change_1h": 38.4,
+                        "percent_change_24h": 85.74,
+                        "percent_change_7d": 113.08,
+                        "price": 3.18065e-05,
+                        "volume_24h": 35237.1069023201
+                    }
+                }
+            }
+        },
+        "losers": {
+            "1h": {
+                "CMCT": {
+                    "BTC": {
+                        "market_cap": 2208.0,
+                        "percent_change_1h": 0.17,
+                        "percent_change_24h": -7.28,
+                        "percent_change_7d": -37.64,
+                        "price": 4.9345e-06,
+                        "volume_24h": 134.6865411916
+                    }
+                },
+                "DCT": {
+                    "BTC": {
+                        "market_cap": 2791.0,
+                        "percent_change_1h": 0.0,
+                        "percent_change_24h": -0.19,
+                        "percent_change_7d": -12.85,
+                        "price": 5.43965e-05,
+                        "volume_24h": 28.9260037028
+                    }
+                },
+                "DMT": {
+                    "BTC": {
+                        "market_cap": 1404.0,
+                        "percent_change_1h": 2.21,
+                        "percent_change_24h": 0.03,
+                        "percent_change_7d": -10.52,
+                        "price": 2.79562e-05,
+                        "volume_24h": 19.5273094813
+                    },
+                    "ETH": {
+                        "market_cap": 19751.0,
+                        "percent_change_1h": 2.23,
+                        "percent_change_24h": 0.81,
+                        "percent_change_7d": 0.07,
+                        "price": 0.0003933197,
+                        "volume_24h": 274.7329110225
+                    }
+                },
+                "NXT": {
+                    "BTC": {
+                        "market_cap": 14684.0,
+                        "percent_change_1h": -3.34,
+                        "percent_change_24h": -2.49,
+                        "percent_change_7d": -12.61,
+                        "price": 1.46991e-05,
+                        "volume_24h": 469.0237408331
+                    },
+                    "USDT": {
+                        "market_cap": 89874675.0,
+                        "percent_change_1h": -3.6,
+                        "percent_change_24h": -2.53,
+                        "percent_change_7d": -20.83,
+                        "price": 0.0899646449,
+                        "volume_24h": 2870627.66264134
+                    },
+                    "XMR": {
+                        "market_cap": 682344.0,
+                        "percent_change_1h": -3.6,
+                        "percent_change_24h": -2.53,
+                        "percent_change_7d": -20.83,
+                        "price": 0.0006830268,
+                        "volume_24h": 21794.2910992218
+                    }
+                },
+                "VEE": {
+                    "BTC": {
+                        "market_cap": 5148.0,
+                        "percent_change_1h": -1.2,
+                        "percent_change_24h": -4.44,
+                        "percent_change_7d": -9.61,
+                        "price": 2.6145e-06,
+                        "volume_24h": 53.2207786261
+                    },
+                    "ETH": {
+                        "market_cap": 72427.0,
+                        "percent_change_1h": -1.18,
+                        "percent_change_24h": -3.7,
+                        "percent_change_7d": 1.1,
+                        "price": 3.67838e-05,
+                        "volume_24h": 748.7718393992
+                    }
+                }
+            },
+            "24h": {
+                "THETA": {
+                    "BNB": {
+                        "market_cap": 7102169.0,
+                        "percent_change_1h": -0.71,
+                        "percent_change_24h": -10.45,
+                        "percent_change_7d": -2.01,
+                        "price": 0.0106976055,
+                        "volume_24h": 1262200.3365610086
+                    },
+                    "BTC": {
+                        "market_cap": 16842.0,
+                        "percent_change_1h": -0.44,
+                        "percent_change_24h": -10.41,
+                        "percent_change_7d": 8.17,
+                        "price": 2.53683e-05,
+                        "volume_24h": 2993.1832603903
+                    },
+                    "ETH": {
+                        "market_cap": 236954.0,
+                        "percent_change_1h": -0.42,
+                        "percent_change_24h": -9.72,
+                        "percent_change_7d": 20.97,
+                        "price": 0.0003569109,
+                        "volume_24h": 42111.5848621584
+                    }
+                },
+                "UNB": {
+                    "BTC": {
+                        "market_cap": 117.0,
+                        "percent_change_1h": 2.11,
+                        "percent_change_24h": -11.19,
+                        "percent_change_7d": -6.66,
+                        "price": 5.15253e-05,
+                        "volume_24h": 72.7919193505
+                    }
+                }
+            },
+            "7d": {
+                "CMCT": {
+                    "BTC": {
+                        "market_cap": 2208.0,
+                        "percent_change_1h": 0.17,
+                        "percent_change_24h": -7.28,
+                        "percent_change_7d": -37.64,
+                        "price": 4.9345e-06,
+                        "volume_24h": 134.6865411916
+                    }
+                },
+                "NLC2": {
+                    "BTC": {
+                        "market_cap": 1538.0,
+                        "percent_change_1h": 1.84,
+                        "percent_change_24h": -6.05,
+                        "percent_change_7d": -31.77,
+                        "price": 7.3811e-06,
+                        "volume_24h": 11.1228812173
+                    }
+                }
+            }
+        }
+    },
+    "success": true
+}
